@@ -31,7 +31,7 @@ import bsaLogo from './assets/company_logo/as.jpeg';
 import vpsLogo from './assets/company_logo/images.jpg';
 import vprLogo from './assets/company_logo/we.avif';
 // Project Section Logo's
-import githubdetLogo from './assets/work_logo/wq.png';
+import githubdetLogo from './assets/work_logo/rrr.png';
 import csprepLogo from './assets/work_logo/weather.png';
 import movierecLogo from './assets/work_logo/er.png';
 import taskremLogo from './assets/work_logo/we.png';
@@ -141,13 +141,13 @@ export const SkillsInfo = [
   export const projects = [
     {
       id: 0,
-      title: "Food Ordering Website ",
+      title: "Furniture website",
       description:
-        "I developed a simple food ordering website using HTML, CSS, and Vanilla JavaScript. The website includes features like displaying food items, adding them to cart, calculating total price, and a working Contact Form with input validation. The validation ensures users fill in proper name, email, and message before submission. This project helped me strengthen my understanding of web structure, styling, ",
+        "A responsive furniture website built using HTML, CSS, JavaScript, and Bootstrap. The website features modern UI, product showcase, responsive design, and an integrated EmailJS service for direct customer inquiries via contact form.. This project helped me strengthen my understanding of web structure, styling, ",
       image: githubdetLogo,
-      tags: ["HTML", "CSS", "JavaScript"],
-      github: "https://github.com/khetaRamkumawat/Food-Ordering-Website-",
-      webapp: "https://food-ordering-website-ctl2.vercel.app/",
+      tags: ["HTML", "CSS", "JavaScript" ,"Bootstrap"],
+      github: "https://github.com/khetaRamkumawat/furniture",
+      webapp: "https://furniture-wheat-two.vercel.app/",
     },
     {
       id: 1,
